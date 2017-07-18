@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-match",
+  "version": "0.1.0",
+  "description": "System to connect customers with available support using webrtc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fczuardi/webrtc-match.git"
+  },
+  "keywords": [
+    "webrtc",
+    "helpdesk",
+    "chat",
+    "queue",
+    "support"
+  ],
+  "author": "Fabricio C Zuardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fczuardi/webrtc-match/issues"
+  },
+  "homepage": "https://github.com/fczuardi/webrtc-match#readme"
+}
